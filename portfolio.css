@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: brown;
+    font-family: 'poppins', sans-serif;
+    background-image: url('bg.jpg');
+    background-size: cover;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    height: 100px;
+    background-color: rgb(71, 66, 66);
+}
+
+nav ul {
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    color: wheat;
+    margin: 0 25px;
+}
+
+nav ul li a:hover {
+    color: rgb(255, 207, 117);
+}
+
+.left {
+    margin-top: 20px;
+    font-size: 2rem;
+    color: wheat;
+}
+ul img{
+    height: 200px;
+    width: 200px;
+    border-radius: 30%;
+}
+.P{
+    display: flex;
+    margin-left: 300px;
+}
+
+section {
+    display: flex;
+    margin: 20px;
+    height: 700px;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+
+.leftsection {
+    padding-top: 200px;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    color: wheat;
+    font-size: 2.5rem;
+}
+
+.oc {
+    color: darkgoldenrod;
+}
+
+.rightsection {
+    display: flex;
+    width: 500px;
+    height: 500px;
+    padding-top: 100px;
+}
+.Mem{
+    margin-right: 100px;
+}
+
+#element {
+    color: rgb(255, 207, 117);
+}
+fieldset{
+    margin: 200px;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+fieldset p{
+    color: wheat;
+    padding: 30px;
+    font-size: larger;
+}
+h1{
+    color: darkorange;
+    text-align: center;
+}
+h1:hover{
+    color: wheat;
+}
+.resume{
+    display: flex;
+    padding: 200px;
+}
+.resume img{
+    margin-top: 150px;
+    padding-left: 400px;
+}
+.projects{
+    padding: 200px;
+    margin-top: 200px;
+    margin-bottom: 500px;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+h3{
+    color: chocolate;
+}
+h3:hover{
+    color:whitesmoke;
+}
+h2{
+    color: cadetblue;
+}
+h2:hover{
+    color: rgb(4, 237, 245);
+}
+.contact a img{
+    display: flex;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+}
+.bottom
+{
+    display: flex;
+    margin-left: 40%;
+}
+.icons
+{
+    margin-right: 10%;
+    margin-bottom: 500px;
+}
+.address
+{
+    text-align: center;
+}
