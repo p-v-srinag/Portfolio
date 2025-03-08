@@ -7,6 +7,8 @@ It is Basic Portfolio Where I had show case your Details in 5 different Sections
 
 In Header I had used lists and hyperlink by id for the text.
 
+The Navbar I had used list for options on navbar Like Home   About Me  Resume   Projects   Contact Me.
+
 In Home I used Flex for my image and javascript for text typed using ==> https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js.
 
 In About Me I had used Hover and legend on About Me Text so that it looks good . Text about me so that you can know about me.
